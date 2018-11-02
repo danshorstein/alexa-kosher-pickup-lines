@@ -1,0 +1,50 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "kosher pickup lines",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "GetNewPickupLineIntent",
+                    "slots": [],
+                    "samples": [
+                        "a line",
+                        "a pickup line",
+                        "tell me a line",
+                        "tell me a pickup line",
+                        "give me a line",
+                        "give me a pickup line",
+                        "tell me kosher pickup",
+                        "tell me a kosher pickup",
+                        "give me kosher pickup",
+                        "give me a kosher pickup",
+                        "give me some lines",
+                        "give me some pickup lines",
+                        "tell me kosher pickup lines",
+                        "give me kosher pickup lines"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
